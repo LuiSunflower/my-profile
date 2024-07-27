@@ -32,7 +32,7 @@ body {
 
 .contenedor-principal {
     background: white;
-    width: 22.8vw;
+    width: 351px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -58,6 +58,7 @@ p {
 .contenedor-imagen img {
     border-top-left-radius: 1rem;
     border-top-right-radius: 1rem;
+    width: 351px;
 }
 
 .picture-me {
